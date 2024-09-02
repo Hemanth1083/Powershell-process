@@ -1,0 +1,4 @@
+$first=10
+$second=20
+$result=$first+$second
+$out="the result is : " + $result
